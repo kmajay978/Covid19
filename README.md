@@ -19,8 +19,5 @@ npm start
 - if you wonder why reducers, actions and selectors are all in one file inside folder called `ducks`, [read more here](https://github.com/erikras/ducks-modular-redux).
 
 ## TODO
-- add reducers and selectors unit tests
+- Shows all countries covid 19 stats
 
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
