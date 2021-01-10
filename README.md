@@ -1,6 +1,6 @@
 # react.js Covid 19 tracker tool
 
-example of shopping cart implemented in react.js and redux.js
+We are Creating the Covid 19 Tracker tool in React js
 
 
 ## getting started
