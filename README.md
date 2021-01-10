@@ -1,8 +1,7 @@
-# react.js shopping cart
+# react.js Covid 19 tracker tool
 
 example of shopping cart implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
 
 ## getting started
 
@@ -15,13 +14,8 @@ npm start
 
 ## details
 - build with [create react app](https://github.com/facebookincubator/create-react-app). Check their page for more details.
-- this example is using redux.js for application state management, to learn more about it I recommend [this tutorial](https://egghead.io/courses/getting-started-with-redux).
-- you can look under the hood directly from your browser using [redux devtools](https://github.com/zalmoxisus/redux-devtools-extension). Install extension for your browser, open demo page (link above) and see how app state changes when you interact with it.
-- if you wonder why reducers, actions and selectors are all in one file inside folder called `ducks`, [read more here](https://github.com/erikras/ducks-modular-redux).
+- This tool shows all details of covid 19 stats including infected rate, death rate and recovered rate
 
 ## TODO
-- add reducers and selectors unit tests
+- Shows all countries covid 19 stats
 
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
